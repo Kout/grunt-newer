@@ -10,19 +10,19 @@
     "url": "https://github.com/tschaub/grunt-newer/issues"
   },
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.0.1",
     "rimraf": "^2.5.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "grunt": "0.4.5",
+    "grunt": "1.0.1",
     "grunt-cafe-mocha": "0.1.13",
     "grunt-cli": "^1.1.0",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "mock-fs": "^3.8.0",
-    "tmp": "0.0.28",
+    "tmp": "0.0.29",
     "wrench": "1.5.8"
   },
   "engines": {
